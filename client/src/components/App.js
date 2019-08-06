@@ -10,7 +10,7 @@ class App extends React.Component{
 
 
     componentDidMount(){
-        this.onTermSubmit('buildings');
+        this.onTermSubmit('lofi radio');
     }
 
 
