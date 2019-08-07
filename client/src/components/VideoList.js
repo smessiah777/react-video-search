@@ -1,4 +1,4 @@
-
+import './VideoList.css'
 import React from 'react';
 import VideoItem from './VideoItem';
 
