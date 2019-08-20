@@ -8,10 +8,6 @@
 
 <h2 align="center">  A React Project</h2>
 
-## Deployment Link
-
-[https://video-search-react-app.netlify.com](https://video-search-react-app.netlify.com)
-
 ## Overview
 
 A React app that utilizes the Youtube data api to search for videos and watch them.
@@ -27,3 +23,7 @@ A React app that utilizes the Youtube data api to search for videos and watch th
 - React
 - Semantic UI
 - Youtube Data API
+
+## Deployment Link
+
+[https://video-search-react-app.netlify.com](https://video-search-react-app.netlify.com)
