@@ -24,6 +24,10 @@ A React app that utilizes the Youtube data api to search for videos and watch th
 - Semantic UI
 - Youtube Data API
 
+**Deployment:**
+
+- Netlify
+
 ## Deployment Link
 
 [https://video-search-react-app.netlify.com](https://video-search-react-app.netlify.com)
