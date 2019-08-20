@@ -30,4 +30,4 @@ A React app that utilizes the Youtube data api to search for videos and watch th
 
 ## Deployment Link
 
-[https://video-search-react-app.netlify.com](https://video-search-react-app.netlify.com)
+<a href="https://video-search-react-app.netlify.com" target="_blank">Video Search App</a>
